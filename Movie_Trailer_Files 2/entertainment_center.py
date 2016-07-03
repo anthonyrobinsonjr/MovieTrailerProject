@@ -45,7 +45,7 @@ taken = media.Movie("taken",
 
 movies = [toy_story, avatar, tmnt, lion_king, pursuit_of_happyness, planet_of_apes, independence_day, taken]
 
-#fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies)
 
 #print(media.Movie.VALID_RATINGS)
 
