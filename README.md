@@ -11,7 +11,7 @@ This is a movie trailer website project for Udacity's full-stack [nanodegree pro
 
 ## Demo
 
-For a demo, check out <http://movietrailer.site88.net/Movie_Trailer_Files%202/fresh_tomatoes.html>!
+For a demo, check out <http://movietrailer.site88.net/Movie_Trailer_Files%202/>!
 
 ## Download
 
