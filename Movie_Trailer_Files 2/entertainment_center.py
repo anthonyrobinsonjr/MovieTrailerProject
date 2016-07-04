@@ -50,8 +50,8 @@ Taken = media.Movie("taken",
                    "http://www.counter-currents.com/wp-content/uploads/2010/08/taken-poster.jpg", # noqa
                     "https://www.youtube.com/watch?v=kZ02_Uzf7So")
 
-movies = [toy_story, avatar, tmnt, lion_king, pursuit_of_happyness, 
-          planet_of_apes, independence_day, taken]
+movies = [Toy_Story, Avatar, Teenage_Mutant Ninja Turtles, Lion_King, \
+          Pursuit_of_Happyness, Planet_of_Apes, Independence_Day, Taken]
 
 fresh_tomatoes.open_movies_page(movies)
 
